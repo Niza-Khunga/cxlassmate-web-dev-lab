@@ -1,6 +1,0 @@
-In this lab, I learned how to set up a web development environment, create a basic webpage, and use Git & GitHub for version control. 
-I installed VS Code, Git, and Node.js, then verified their installations then I created a simple HTML file, opened it in a browser, and used Live Server for real-time updates.
-I configured Git, initialized a repository, and pushed my project to GitHub.
-Additionally, I worked with branches by creating a feature branch, adding a new file, and merging it through a pull request. 
-I also practiced collaboration by forking a teammate’s repository, making contributions, and submitting a pull request.
-This lab provided me with valuable hands-on experience in GitHub workflows and essential web development tools.
